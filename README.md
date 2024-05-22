@@ -1,1 +1,1 @@
-This is private personal hompage buid.
+This is private personal hompage build.
